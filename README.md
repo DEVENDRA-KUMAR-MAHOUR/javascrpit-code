@@ -1,1 +1,1 @@
-# javascrpit-code
+const name="name devendra";
